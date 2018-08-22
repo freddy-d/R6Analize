@@ -1,0 +1,1225 @@
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>
+	Operators | Tom Clancy&#39;s Rainbow Six Siege | Ubisoft® (US)
+</title>
+
+<!-- Customize MetaTag Start -->
+
+
+<meta name="description" content="Discover the unique personality and specialty of each operator in Tom Clancy's Rainbow Six Siege."/>
+<meta property="og:url" content="https://rainbow6.ubisoft.com/siege/en-us/game-info/operators.aspx" />
+<!-- Customize MetaTag End -->
+<link rel="canonical" href="https://rainbow6.ubisoft.com/siege/en-us/game-info/operators.aspx" />
+<!-- Arbitrary Code -->
+
+<!-- Arbitrary Code End -->
+
+<!-- Initialize Flowplayer Key -->
+<script type="text/javascript">
+    window.Ubi = {};
+    Ubi.params = {
+        'flowplayer.key': '9d6ac1fcefc8afbd444'.split('|'),
+        'sharethis.destUrls': {
+            twitter: '',
+            facebook: ''
+        }
+    }
+</script>
+<!-- End Initialize Flowplayer Key -->
+<link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/common/reset.css" type="text/css" media="all" /><link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/common/global.css" type="text/css" media="all" /><link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/common/ubibarv2.css" type="text/css" media="all" /><link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/common/footer.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/jquery.fancybox.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-siege-v3.css" type="text/css" media="all" /><link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-siege-v3-mobile.css" type="text/css" media="all" /><link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-siege-v3-operators.css" type="text/css" media="all" /><link rel="stylesheet" href="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-siege-v3-loc.css" type="text/css" media="all" /><link href="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6s-favicon_316592.ico" rel="SHORTCUT ICON" /><link href="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6s-favicon_316592.ico" rel="icon" type="image/ico" /></head>
+<body class="r6_operators">
+<form method="post" action="./operators.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyNDMxOTc3MWRkVL1geGbqpUrdcaBgjadh58PL4nN2NjuCr8yRR+SDfxE=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="98D24F23" />
+</div>
+    <div id="main">
+        <div id="G1" class='row-fluid row_r6_ubibar'>
+<div id="G1C1" class='span12 c_r6_ubibar'>
+<div id="ubisoft-toolbar-container" class="ubibarv2 " installmentId="" showSignInText="">
+    <div id="ubisoft-toolbar">
+        <ul id="nav" class="dropdown dropdown-horizontal">
+            <li class="ubisoft-logo"><a href="javascript:;"><span></span></a>
+            <ul class="ubi-drop">
+            
+                
+                    <li><a href="https://www.ubisoft.com" target="_blank">Discover More Games</a></li>
+                
+            
+                
+                    <li><a href="https://store.ubi.com/" target="_blank">Ubisoft Store</a></li>
+                
+            
+                
+                    <li><a href="https://club.ubisoft.com/" target="_blank">Ubisoft Club</a></li>
+                
+            
+                
+                    <li><a href="http://forums.ubi.com" target="_blank">Forums</a></li>
+                
+            
+                
+                    <li><a href="https://support.ubi.com/" target="_blank">Support</a></li>
+                
+            
+            </ul>
+            </li>
+
+            <li class="item-uplay panel-link">
+                        
+                        <div id="uplay-panel" class="panel" uplaythemecolor="#36a9e0">
+                        
+                        
+                        </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<script src="//use.typekit.net/dej6tyl.js"></script>
+<script>
+        try { Typekit.load(); } catch (e) { }
+    </script></div>
+</div>
+<div id="G2" class='row-fluid row_sitenav'>
+<div id="G2C1" class='span12 c_sitenav'>
+<div id="152316620" class="richtext r6-navigation">
+    <div class="r6-navigation-bar r6-navigation-desktop">
+<div class="r6-navigation-toggle"><span> </span> <span> </span> <span> </span> <span> </span></div>
+<a href="/siege/en-us/home/index.aspx" class="r6-navigation-logo" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="logo home"><span class="icon-game"> </span> <span class="logo-game"> </span></a>
+<div class="r6-navigation-content">
+<ul class="r6-navigation-list">
+<li><a href="/siege/en-us/news/index.aspx" class="r6-navigation-list--link" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="news">News</a></li>
+<li class="has-subnav"><a href="#" class="r6-navigation-list--link" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="game">Game</a>
+<ul class="r6-navigation-subnav">
+<li><a href="/siege/en-us/game-info/index.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="overview">Overview</a></li>
+<li><a href="/siege/en-us/siege-rules/index.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="rules of siege">Rules of Siege</a></li>
+</ul>
+</li>
+<li class="has-subnav"><a href="#" class="r6-navigation-list--link" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="seasons">Seasons</a>
+<ul class="r6-navigation-subnav">
+<li><a href="/siege/en-us/game-info/seasons.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="operations">Operations</a></li>
+<li><a href="/siege/en-us/game-info/roadmap.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="roadmap">Roadmap</a></li>
+</ul>
+</li>
+<li><a href="/siege/en-us/game-info/operators.aspx" class="r6-navigation-list--link" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="operators">Operators</a></li>
+<li><a href="/siege/en-us/esports/index.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="esports">Esports</a></li>
+<li class="has-subnav"><a href="#" class="r6-navigation-list--link" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="r6 player">Player Resources</a>
+<ul class="r6-navigation-subnav">
+<li><a href="/siege/en-us/player-activities/index.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="my profile"><span>My Profile</span></a></li>
+<li><a href="/siege/en-us/whiteboard/landing.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="tactical board">Tactical Board</a></li>
+<li><a href="https://r6fix.ubi.com/" target="_blank" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="r6 fix">R6 Fix</a></li>
+</ul>
+</li>
+</ul>
+<ul class="r6-navigation-list r6-navigation-cta">
+<li class="r6-navigation-register"><a href="/siege/en-us/free-weekend/index.aspx" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="free weekend">Free Weekend</a></li>
+
+<li class="r6-navigation-preorder"><a href="/siege/en-us/buy/index.aspx" target="_self" data-aa-tracking="1" data-aa-location="navigation" data-aa-category="action" data-aa-action="buy now">BUY NOW</a></li>
+</ul>
+</div>
+</div>
+</div></div>
+</div>
+<div id="G3" class='row-fluid row_operator_list'>
+<div id="G3C1" class='span12 c_operator_list'>
+<div id="152316818" class="richtext ">
+    <h1>OPERATORS</h1>
+</div><div class="gameinfo_operator_list">
+<div class="gi_operator_filter">
+        <div class="filter-group filter-group-position">
+            <ul>
+                <li class="pos-attacker"><a href="#attacker" data-aa-tracking='1' data-aa-location='page' data-aa-category='interaction' data-aa-action='Attacker'><span>Attacker</span></a></li>
+                <li class="pos-defender"><a href="#defender" data-aa-tracking='1' data-aa-location='page' data-aa-category='interaction' data-aa-action='Defender'><span>Defender</span></a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="gi_operator_container">
+	
+		<div class="operator-list-item fr gign attacker" data-key="lion">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/lion/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='lion'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-lion_319121.png"  class="operator-thumb" alt="Lion Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Lion</h4>
+                        <i class="operator-unit-icon">&nbsp;</i>
+                        <i class="operator-position-icon">&nbsp;</i>
+                        <i class="operator-type-icon">&nbsp;</i>
+                        <span class="operator-icon">
+							<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-badge-lion.png"   alt="Lion Icon - Rainbow Six Siege"/>
+                        </span>
+                </div>
+            </a>
+        </div>
+		
+        <div class="operator-list-item ru spetsnaz attacker" data-key="finka">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/finka/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='finka'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-finka_319120.png"  class="operator-thumb" alt="Finka Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Finka</h4>
+                    <i class="operator-unit-icon">&nbsp;</i>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-badge-finka.png"   alt="Finka Icon - Rainbow Six Siege"/>
+                    </span>
+                                            </div>
+                                        </a>
+                                    </div>
+
+
+                        <div class="operator-list-item smb defender" data-key="vigil">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/vigil/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='vigil'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-vigil_317287.png"  class="operator-thumb" alt="Vigil Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Vigil</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operator-vigil-badges_307135.png"  alt="Vigil Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+                <div class="operator-list-item smb attacker" data-key="dokkaebi">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/dokkaebi/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='dokkaebi'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-dokkaebi_317263.png"  class="operator-thumb" alt="Dokkaebi Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Dokkaebi</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6_operator_dokkaebi_badge_307134.png"  alt="Dokkaebi Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item grom attacker" data-key="zofia">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/zofia/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='zofia'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-zofia_317289.png"  class="operator-thumb" alt="Zofia Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Zofia</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/zofia_badge_306416.png"  alt="Zofia Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item grom defender" data-key="ela">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/ela/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='ela'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-ela_317265.png"  class="operator-thumb" alt="Ela Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Ela</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-ela_301983.png"  alt="Ela Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item sdu attacker" data-key="ying">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/ying/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='ying'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-ying_317288.png"  class="operator-thumb" alt="Ying Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Ying</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-blood-orchid-badge-ying_298983.png"  alt="Ying Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item sdu defender" data-key="lesion">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/lesion/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='lesion'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-lesion_317274.png"  class="operator-thumb" alt="Lesion Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Lesion</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-blood-orchid-badge-lesion_298982.png"  alt="Lesion Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item geo defender" data-key="mira">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/mira/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='mira'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-mira_317275.png"  class="operator-thumb" alt="Mira Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Mira</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-velvet-shell-badge-mira_282826.png"  alt="Mira Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item geo attacker" data-key="jackal">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/jackal/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='jackal'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-jackal_317271.png"  class="operator-thumb" alt="Jackal Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Jackal</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-velvet-shell-badge-jackal_282825.png"  alt="Jackal Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item sat attacker" data-key="hibana">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/hibana/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='hibana'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-hibana_317269.png"  class="operator-thumb" alt="Hibana Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Hibana</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-hibana_275569.png"  alt="Hibana Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item sat defender" data-key="echo">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/echo/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='echo'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-echo_317264.png"  class="operator-thumb" alt="Echo Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Echo</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-echo_275572.png"  alt="Echo Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item bope defender" data-key="caveira">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/caveira/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='caveira'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-caveira_317261.png"  class="operator-thumb" alt="Caveira Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Caveira</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-caveira_263102.png"  alt="Caveira Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item bope attacker" data-key="capitao">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/capitao/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='capitao'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-capitao_317258.png"  class="operator-thumb" alt="Capitão Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Capitão</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-capitao_263100.png"  alt="Capitão Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item navyseal attacker" data-key="blackbeard">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/blackbeard/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='blackbeard'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-blackbeard_317255.png"  class="operator-thumb" alt="Blackbeard Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Blackbeard</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-blackbeard_250312.png"  alt="Blackbeard Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item navyseal defender" data-key="valkyrie">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/valkyrie/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='valkyrie'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-valkyrie_317286.png"  class="operator-thumb" alt="Valkyrie Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Valkyrie</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-valkyrie_250313.png"  alt="Valkyrie Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item jtf2 attacker" data-key="buck">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/buck/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='buck'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-buck_317257.png"  class="operator-thumb" alt="Buck Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Buck</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-buck_237592.png"  alt="Buck Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item jtf2 defender" data-key="frost">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/frost/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='frost'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-frost_317266.png"  class="operator-thumb" alt="Frost Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Frost</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-frost_237595.png"  alt="Frost Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <!-- TEAM SAS -->
+
+        <div class="operator-list-item sas defender" data-key="mute">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/mute/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='mute'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-mute_317277.png"  class="operator-thumb" alt="Mute Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Mute</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-mute_229870.png"  alt="Mute Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item sas attacker" data-key="sledge">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/sledge/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='sledge'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-sledge_317280.png"  class="operator-thumb" alt="Sledge Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Sledge</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-sledge_229873.png"  alt="Sledge Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item sas defender" data-key="smoke">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/smoke/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='smoke'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-smoke_317281.png"  class="operator-thumb" alt="Smoke Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Smoke</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-smoke_229874.png"  alt="Smoke Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item sas attacker" data-key="thatcher">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/thatcher/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='thatcher'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-thatcher_317283.png"  class="operator-thumb" alt="Thatcher Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Thatcher</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-thatcher_229877.png"  alt="Thatcher Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <!-- TEAM SWAT -->
+
+        <div class="operator-list-item swat attacker" data-key="ash">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/ash/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='ash'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-ash_317253.png"  class="operator-thumb" alt="Ahs Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Ash</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-ash_229847.png"  alt="Ash Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item swat defender" data-key="castle">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/castle/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='castle'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-castle_317260.png"  class="operator-thumb" alt="Castle Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Castle</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-castle_229852.png"  alt="Castle Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item swat defender" data-key="pulse">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/pulse/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='pulse'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-pulse_317278.png"  class="operator-thumb" alt="Pulse Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Pulse</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-pulse_229871.png"  alt="Pulse Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item swat attacker" data-key="thermite">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/thermite/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='thermite'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-thermite_317284.png"  class="operator-thumb" alt="Thermite Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Thermite</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-thermite_229878.png"  alt="Thermite Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <!-- TEAM GIGN -->
+
+        <div class="operator-list-item gign attacker" data-key="montagne">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/montagne/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='montagne'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-montagne_317276.png"  class="operator-thumb" alt="Montagne Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Montagne</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-montagne_229868.png"  alt="Montagne Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item gign attacker" data-key="twitch">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/twitch/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='twitch'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-twitch_317285.png"  class="operator-thumb" alt="Twitch Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Twitch</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-twitch_229879.png"  alt="Twitch Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item gign defender" data-key="doc">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/doc/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='doc'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-doc_317262.png"  class="operator-thumb" alt="Doc Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Doc</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-doc_229853.png"  alt="Doc Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item gign defender" data-key="rook">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/rook/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='rook'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-rook_317279.png"  class="operator-thumb" alt="Rook Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Rook</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-rook_229872.png"  alt="Rook Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <!-- TEAM GSG9 -->
+
+        <div class="operator-list-item gsg9 defender" data-key="jager">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/jager/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='jager'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-jager_317272.png"  class="operator-thumb" alt="Jager Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Jäger</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-jager_229864.png"  alt="Jager Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item gsg9 defender" data-key="bandit">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/bandit/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='bandit'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-bandit_317254.png"  class="operator-thumb" alt="Bandit Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Bandit</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-bandit_229848.png"  alt="Bandit Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item gsg9 attacker" data-key="blitz">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/blitz/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='blitz'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-blitz_317256.png"  class="operator-thumb" alt="Blitz Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Blitz</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-blitz_229849.png"  alt="Blitz Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item gsg9 attacker" data-key="iq">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/iq/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='iq'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-iq_317270.png"  class="operator-thumb" alt="IQ Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">IQ</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-iq_229861.png"  alt="IQ Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item spetsnaz attacker" data-key="fuze">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/fuze/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='fuze'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-fuze_317267.png"  class="operator-thumb" alt="Fuze Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Fuze</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-fuze_229856.png"  alt="Fuze Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item spetsnaz attacker" data-key="glaz">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/glaz/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='glaz'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-glaz_317268.png"  class="operator-thumb" alt="Glaz Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Glaz</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-glaz_229859.png"  alt="Glaz Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item spetsnaz defender" data-key="tachanka">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/tachanka/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='tachanka'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-tachanka_317282.png"  class="operator-thumb" alt="Tachanka Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Tachanka</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-tachanka_229876.png"  alt="Tachanka Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+        <div class="operator-list-item spetsnaz defender" data-key="kapkan">
+            <a class="operator-link" href="/siege/en-us/game-info/operators/kapkan/index.aspx" data-aa-tracking='1' data-aa-location='page' data-aa-category='action' data-aa-action='kapkan'>
+                <div class="operator-team-bg">
+                    <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-operators-list-kapkan_317273.png"  class="operator-thumb" alt="Kapkan Portrait - Rainbow Six Siege" />
+                </div>
+                <div class="operator-list-item-title">
+                    <h4 class="operator-list-item-name">Kapkan</h4>
+                    <i class="operator-position-icon">&nbsp;</i>
+                    <i class="operator-type-icon">&nbsp;</i>
+                    <span class="operator-icon">
+                        <img src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege/r6-operators-badge-kapkan_229866.png"  alt="Kapkan Icon - Rainbow Six Siege">
+                    </span>
+                </div>
+            </a>
+        </div>
+
+    </div>
+    <div id="operator-list-item-none" class="">
+        <p>No operator matching your search found</p>
+    </div>
+
+</div></div>
+</div>
+<div id="G4" class='row-fluid row_social_locales'>
+<div id="G4C1" class='span12 c_social_locales'>
+<div id="152316638" class="richtext locales_social_buttons">
+    <p>find us on:</p>
+<ul class="social">
+<li><a class="reddit" href="https://reddit.com/r/rainbow6" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Reddit"> </a></li>
+<li><a class="facebook" href="https://www.facebook.com/rainbow6usa" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Facebook"> </a></li>
+<li><a class="twitter" href="https://twitter.com/rainbow6game" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Twitter"> </a></li>
+<li><a class="instagram" href="https://www.instagram.com/rainbow6game_us/" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Instagram"> </a></li>
+<li><a class="forums" href="https://forums.ubi.com/forumdisplay.php/717-Rainbow-Six-Siege?s=e95cd99d911b5740dbeb3f06394df25d" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Forums"> </a></li>
+<li><a class="youtube" href="https://www.youtube.com/playlist?list=PLpwyzkZha0Z7FQnWlQZ7OvvRV8ULzsoI4" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Youtube"> </a></li>
+<li><a class="twitch" href="https://www.twitch.tv/rainbow6" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Twitch"> </a></li>
+<li><a class="discord" href="https://discord.gg/rainbow6" target="_blank" data-aa-tracking="1" data-aa-location="footer" data-aa-category="social" data-aa-action="Find us on - Discord"> </a></li>
+</ul>
+</div><div id="lang-selection" class="lang-selection">
+
+                            <div id="lang-current">
+                                <div class="current"> </div>
+                                <div class="arrow"> </div>
+                            </div>
+
+                            <div id="lang-selection-regions" class="lang-regions">
+
+                                <div class="regions">
+
+
+                                    <div class="region-col">
+
+                                        <h3>Europe<span> </span></h3>
+
+                                        <div class="lang-countries">
+                                            <ul class="countries">
+                                                <li><a href="http://rainbow6.ubi.com/siege/en-NORDIC/" data-lang="en-NORDIC" title=""><span class="flag-denmark"> </span>Denmark - English</a></li>
+												<li><a href="http://rainbow6.ubi.com/siege/en-NORDIC/" data-lang="en-NORDIC" title=""><span class="flag-finland"> </span>Finland - English</a></li>
+												<li><a href="http://rainbow6.ubi.com/siege/fr-FR/" data-lang="fr-FR" title=""><span class="flag-france"> </span>France - French</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/de-DE/" data-lang="de-DE" title=""><span class="flag-germany"> </span>Germany - German</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/it-IT/" data-lang="it-IT" title=""><span class="flag-italy"> </span>Italy - Italian</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/nl-NL/" data-lang="nl-NL" title=""><span class="flag-netherlands"> </span>Netherlands - Dutch</a> </li>
+												<li><a href="http://rainbow6.ubi.com/siege/en-NORDIC/" data-lang="en-NORDIC" title=""><span class="flag-norway"> </span>Norway - English</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/pl-PL/" data-lang="pl-PL" title=""><span class="flag-poland"> </span>Poland - Polish</a> </li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/ru-RU/" data-lang="ru-RU" title=""><span class="flag-russia"> </span>Russia - Russian</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/es-ES/" data-lang="es-ES" title=""><span class="flag-spain"> </span>Spain - Spanish</a></li>
+												<li><a href="http://rainbow6.ubi.com/siege/en-NORDIC/" data-lang="en-NORDIC" title=""><span class="flag-sweden"> </span>Sweden - English</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/en-GB/" data-lang="en-GB" title=""><span class="flag-uk"> </span>U.K. - English</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="region-col">
+
+                                        <h3>North America<span> </span></h3>
+
+                                        <div class="lang-countries">
+                                            <ul class="countries">
+                                                <li><a href="http://rainbow6.ubi.com/siege/en-CA/" data-lang="en-ca" title=""><span class="flag-canada"> </span>Canada - English</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/fr-CA/" data-lang="fr-ca" title=""><span class="flag-canada"> </span>Canada - French</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/es-MX/" data-lang="es-mx" title=""><span class="flag-mexico"> </span>Mexico - Spanish</a></li>
+                                                <li><a href="http://rainbow6.ubi.com/siege/en-US/" data-lang="en-us" title=""><span class="flag-us"> </span>U.S. - English</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="region-col">
+
+                                        <h3>South America<span> </span></h3>
+
+                                        <div class="lang-countries">
+                                            <ul class="countries">
+                                                <li><a href="http://rainbow6.ubi.com/siege/pt-BR/" data-lang="pt-br" title=""><span class="flag-brazil"> </span>Brazil - Portuguese</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="region-col">
+
+                                        <h3>Asia / Pacific<span> </span></h3>
+
+                                        <div class="lang-countries">
+                                            <ul class="countries">
+                                                <li><a href="http://rainbow6.ubi.com/siege/en-AU/" data-lang="en-AU" title=""><span class="flag-australia"> </span>Australia - English</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div></div>
+</div>
+<div id="G5" class='row-fluid row_adtech_banner'>
+<div id="G5C1" class='span12 c_adtech_banner'>
+<div id="tcm152316633" placementId="6477463" protocol="https" server="adserver.adtech.de" network="1301" class="adtech  banner-desktop">
+<noscript><a href="http://adserver.adtech.de/adlink|3.0|1301|6477463|0|5633|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|1301|6477463|0|5633|ADTECH;loc=300" border="0" width="1024" height="130" /></a></noscript>
+</div><div id="tcm152316634" placementId="6477462" protocol="https" server="adserver.adtech.de" network="1301" class="adtech  esport-banner-mobile">
+<noscript><a href="http://adserver.adtech.de/adlink|3.0|1301|6477462|0|170|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|1301|6477462|0|170|ADTECH;loc=300" border="0" width="300" height="250" /></a></noscript>
+</div></div>
+</div>
+<div id="G6" class='row-fluid row_footer'>
+<div id="G6C1" class='span12 c_footer'>
+<div class="footer footer" id="152316629">
+    <div class="footer-items">
+	
+
+<div class="footer-item">
+
+            
+                <div id="15283439" class="promotion ubisoft" data-agegate="">
+	<a target="_blank" href="https://www.ubisoft.com" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/ubisoft-white_emea_81038.png"  alt="Ubisoft (White Text - Transparent BG - 100px height)"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152306898" class="promotion Ubisoft Store" data-agegate="">
+	<a target="_blank" href="http://store.ubi.com/" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/ubisoft_logo_store_white_footer_140px_306899.png"  alt="Ubisoft Store (White Text - Transparent BG - 140px height)"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152261164" class="promotion ubisoft" data-agegate="">
+	<a target="_blank" href="https://blog.ubi.com/" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/ubisoft-ubiblog-footer-logo%28new%29_296006.png"  alt="Ubi-Blog Footer Logo(New) - Marketing Sites"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152127462" class="promotion uplay" data-agegate="">
+	<a target="_blank" href="https://club.ubisoft.com/" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/uplay_logo_127461.png"  alt="ubisoft_club_logo_white_trans"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152101450" class="promotion xbox-live" data-agegate="">
+	<a target="_blank" href="http://www.xbox.com" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/xboxone_horizontal_c-wht_rgb_98854.png"  alt="Xbox One (Transparent+ White text )"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152101542" class="promotion " data-agegate="">
+	<a target="_blank" href="http://www.playstation.com" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/ps4_logo_101541.png"  alt="PS4 white transparant PS Family logo in parade"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152315732" class="promotion pc-dvd" data-agegate="">
+	<a target="_blank" href="http://blog.ubi.com/rainbow-six-siege-pc-specs/" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/pc-dvd_83673.png"  alt="PC-DVD (Transparent BG - 100px height)"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152213489" class="promotion uplay" data-agegate="">
+	<a target="_blank" href="https://store.ubi.com/us/clothing/brands/six-siege/" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/generic_uws__banner_100x230_213469.jpg"  alt="UbiWorkshop Banner"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152214091" class="promotion " data-agegate="">
+	<a target="_blank" href="http://www.esrb.org/ratings/ratings_guide.jsp" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/r6s-m-rating_214090.jpg"  alt="[R6S] ESRB M"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+
+<div class="footer-item">
+
+            
+                <div id="152110505" class="promotion esrb" data-agegate="">
+	<a target="_blank" href="http://www.esrb.org/confirm/ubisoft-confirmation.jsp" >
+		
+		<img src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/privacy-certified-globe-color-ubiosoft_110500.jpg"  alt="privacy_certified_globe_color"/>
+		
+		
+		
+	</a>
+		
+</div>            
+
+		
+
+		
+
+		
+</div>
+
+	
+     </div>
+    <p class="legal">© 2017 Ubisoft Entertainment. All Rights Reserved. Tom Clancy’s, Rainbow Six, the Soldier Icon, Uplay, the Uplay logo, Ubi.com, Ubisoft, and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries. The “PS” Family logo is a registered trademark and “PS4” is a trademark of Sony Computer Entertainment Inc. Software platform logo (TM and ©) EMA 2006.
+<br />
+<br />
+<a href="https://legal.ubi.com/InterestBasedAdvertising/en-US?cache=22828524de97e0687d728e89b46a300c" target="_blank" style="text-decoration:underline;text-shadow: 1px 1px 1px #000;color:#FFF;!important">INTEREST BASED ADVERTISING</a>  <a href="https://legal.ubi.com/termsofuse" target="_blank" style="text-decoration:underline;text-shadow: 1px 1px 1px #000;color:#FFF;!important">UBISOFT TERMS OF USE</a>  <a href="https://legal.ubi.com/privacypolicy" target="_blank" style="text-decoration:underline;text-shadow: 1px 1px 1px #000;color:#FFF;!important">UBISOFT PRIVACY POLICY</a></p>
+</div></div>
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/jquery-1.7.2.min.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/jquery.tools.min.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/jquery.cookies.2.2.0.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/tiny-pubsub.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/jquery.actual.min.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/birthdaypicker.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/lightbox_me.js"> </script>
+
+<script type="text/javascript" src="https://static2.cdn.ubi.com/uplay-connect/v2/live/default/js/uplay_sdk.1.0.min.js"> </script>
+
+<script type="text/javascript" src="https://static2.cdn.ubi.com/uplay-connect/v2/live/default/js/easyXDM.min.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/tridionsetting.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/uplayaccountmanager.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/newscomments.js"> </script>
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/agegate.js"> </script>
+
+
+    
+    
+
+<script type="text/javascript" src="https://overlay.ubisoft.com/widget.js"> </script>
+
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/ubibarv2.js"> </script>
+
+
+<script type="text/javascript" src="//aka-cdn-ns.adtech.de/dt/common/DAC.js"> </script>
+
+
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/adtech.js"> </script>
+
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/common/myjs.js"> </script>
+
+
+
+
+    
+    <script  type="text/javascript">    
+        tridionSettings.addSettings({ageGateScope: 'page', mdmProductDevelopmentId: '', pageNameForTrace: 'main', siteSection: 'operators'});
+    </script>
+    
+
+<!-- Tridion Global Setting -->
+<script type="text/javascript">
+	function writeLog(message) {
+		if (typeof (window.console) === "object" && typeof (window.console.log) === "function") {
+			console.log(message);
+		}
+	}
+    if (typeof tridionSettings!= 'undefined') {  
+	tridionSettings.addSettings({"publicationId":"tcm:0-152-1","target":"Live","cdn_root":"https://ubistatic19-a.akamaihd.net/resource","forumBaseurl":"http://forums.ubi.com","ageGateDateFormatErrorMessage":"Please enter a valid date","ageGateDay":"Day","ageGateFailingMessage":"You may not access this content at this time","ageGateMainMessage":"Please Enter Your Date of Birth","ageGateMonth":"Month","ageGateMonthValues":"January,February,March,April,May,June,July,August,September,October,November,December","ageGateTextUrl":"Please enter your Date of Birth, or <a>log in</a> to bypass age verification.","ageGateUrl":"https://uplayconnect.ubi.com/","ageGateYear":"Year","serviceRoot":"https://prod-tridionservice.ubisoft.com/live","submitLabel":"Submit","Ubiservice":"https://public-ubiservices.ubi.com","rootDomain":"","ageGateMinimumAgeRequired":"17","ageGateForceSiteLevel":"No","siteName":"Rainbow 6 Siege","siteType":"Gamesite","siteCategory":"Responsive Site","mdmInstallmentId":"2728 - RAINBOW SIX 7","mdmBrand":"209 - RAINBOW SIX","contentTagPage":"","siteDomain":"ubisoft.com","genomeId":"f9224c7b-01b4-4a68-ad4f-98ede78ef225","serviceUsesSeoFriendly":"true","appId":"685a3038-2b04-47ee-9c5a-6403381a46aa","language":"en","zone":"US","locale":"en-us","region":"ncsa"});
+        // initialize extensions
+        if (tsExtensions !== undefined && tsExtensions.settings !== undefined) {
+            tsExtensions.settings.init();
+        }
+	} else {
+    	writeLog("Error : javascript include 'tridionSettings' is undefined.");
+    }
+</script>
+
+<!-- UbiSocial-->
+
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/widget/ubisocial/live/ncsa/20160818/ubisocial.js"></script>
+
+
+  
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/jquery.fancybox.js"> </script>
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/games-common/analyticstagging.js"> </script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1575735-4']);
+    
+    
+    
+    _gaq.push(['_setDomainName', 'ubisoft.com']);
+    
+    _gaq.push(['_trackPageview']);
+
+    (function () { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+</script>
+    <script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-siege-v3.js"> </script>
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-siege-v3-operators.js"> </script>
+<script type="text/javascript" src="https://ubistatic19-a.akamaihd.net/resource/en-us/game/rainbow6/siege-v3/r6-siege-v3-loc.js"> </script>
+ 
+
+    
+</form>
+</body>
+</html>
+
